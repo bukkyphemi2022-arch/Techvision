@@ -1,2 +1,0 @@
-# Techvision
-Website
